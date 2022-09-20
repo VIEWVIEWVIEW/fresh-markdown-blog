@@ -5,20 +5,6 @@ excerpt: If you want to understand how everything works, you should take a look 
 shouldBeListedOnIndex: true # Whether it should be shown on "all / latest" pages
 ---
 
-# A small markdown blog powered by fresh
-[![Made with Fresh](https://fresh.deno.dev/fresh-badge.svg)](https://fresh.deno.dev)
-
-## Demo
-https://fresh-markdown-blog.deno.dev/
-
-## Usage
-
-Start the project:
-
-```
-deno task start
-```
-
 
 ## Create Posts
 
