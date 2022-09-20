@@ -1,0 +1,31 @@
+{
+  "imports": {
+    "$fresh/": "https://deno.land/x/fresh@1.1.0/",
+    "preact": "https://esm.sh/preact@10.10.6",
+    "preact/": "https://esm.sh/preact@10.10.6/",
+    "preact-render-to-string": "https://esm.sh/*preact-render-to-string@5.2.3/",
+    "@preact/signals": "https://esm.sh/*@preact/signals@1.0.3",
+    "@preact/signals-core": "https://esm.sh/*@preact/signals-core@1.0.1",
+    "twind": "https://esm.sh/twind@0.16.17",
+    "twind/": "https://esm.sh/twind@0.16.17/",
+    "typography": "https://esm.sh/@twind/typography@0.0.2",
+    "remarkToc":  "https://esm.sh/remark-toc@8.0.1",
+    "rehype-react": "https://esm.sh/v94/rehype-react@7.1.1/lib/index.d.ts",
+    "rehype-prism": "https://esm.sh/rehype-prism@2.1.2",
+    "twind-typography": "https://esm.sh/@viewviewview/twind-typography@0.0.2",
+    "remarkGfm":"https://esm.sh/remark-gfm@3.0.1",
+    "remarkMath": "https://esm.sh/remark-math@5.1.1", 
+    "frontMatter": "https://deno.land/x/frontmatter@v0.1.4/mod.ts",
+    "rehypeAutolinkHeadings":"https://esm.sh/rehype-autolink-headings@6.1.1",
+    "rehypeCodeTitles": "https://esm.sh/rehype-code-titles@1.1.0",
+    "rehypeSlug": "https://esm.sh/rehype-slug@5.0.1",
+    "unified": "https://esm.sh/unified@10.1.2",
+    "remarkParser": "https://esm.sh/remark-parse@10.0.1",
+    "remarkRehype": "https://esm.sh/remark-rehype@10.1.0",
+    "rehypeStringify": "https://esm.sh/rehype-stringify@9.0.3",
+    "rehypeExternalLinks": "https://esm.sh/rehype-external-links@1.0.1",
+    "remarkImages": "https://esm.sh/remark-images@3.1.0",
+    "rehypeReact": "https://esm.sh/rehype-react@7.1.1",
+    "remarkFrontmatter": "https://esm.sh/v94/remark-frontmatter@4.0.1/index"
+  }
+}
