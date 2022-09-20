@@ -17,10 +17,10 @@ deno task start
 
 - Copy your posts as markdown files into `/posts` in the root directory of your project.
 - Markdown files have to end with `.md`
-- You can create subdirectories like `/posts/memes/index.md`. It's important that the article is called `index.md`, otherwise we won't find it.
+- You can create subdirectories like `/posts/memes/index.md`. If you choose to create subdirectories it will be important that the article is called `index.md`.
 
 ## Metadata
-- When you create a new markdown file, you need to enter the article's metadata in the yaml at the top.
+- When you create a new markdown file, you need to enter the article's metadata in the yaml header at the top. Here is an example:
 
 ```yaml
 ---
