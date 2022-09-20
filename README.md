@@ -1,6 +1,9 @@
 # A small markdown blog powered by fresh
 [![Made with Fresh](https://fresh.deno.dev/fresh-badge.svg)](https://fresh.deno.dev)
 
+## Demo
+https://fresh-markdown-blog.deno.dev/
+
 ## Usage
 
 Start the project:
