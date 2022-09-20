@@ -42,19 +42,19 @@ shouldBeListedOnIndex: false
 
 ## Latest
 
-The 10 latest posts are shown on this page. You can edit this in `routes/index.tsx`. Just edit `articles.slice(0, 10)` in the serverside handler.
+The 10 latest posts are shown on this page. You can change this number in `routes/index.tsx`. Just edit `articles.slice(0, 10)` to your liking in the handler function.
 
-## All
+## Archive
 
-Basically the same like latest-page, but shows all articles and *only* headlines *without* excerpt.
+Basically the same like the latest-page, but shows all articles and *only* headlines *without* excerpt.
 
 ## Navbar
 You can find the Navbar in the components folder. If you want to add or edit links in the navbar, just edit the MenuEntires:
 ```javascript
 export const MenuEntries = [
   {
-    name: "All",
-    href: "/all",
+    name: "Archive",
+    href: "/archive",
   },
   {
     name: "Latest",
