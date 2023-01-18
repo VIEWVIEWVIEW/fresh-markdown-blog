@@ -46,10 +46,10 @@ The 10 latest posts are shown on this page. You can change this number in `route
 
 ## Archive
 
-Basically the same like the latest-page, but shows all articles and *only* headlines *without* excerpt.
+Basically, the same as the latest-page, but shows all articles and *only* headlines *without* excerpt.
 
 ## Navbar
-You can find the Navbar in the components folder. If you want to add or edit links in the navbar, just edit the MenuEntires:
+You can find the Navbar in the components folder. If you want to add or edit links in the navbar, just edit the MenuEntries:
 ```javascript
 export const MenuEntries = [
   {
@@ -69,4 +69,5 @@ export const MenuEntries = [
 
 ## Footer
 
-Basically the same like Navbar.
+Basically the same as Navbar.
+
